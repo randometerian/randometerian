@@ -12,6 +12,8 @@
 
 "Its Better To Shit In The Sink Then To Sink In The Shit"
 
+"What Are You Without CLI You GUI User?!"
+
 ---
 [![](https://komarev.com/ghpvc/?username=randometerian&icon=1&color=0)](https://visitcount.itsvg.in)
 
